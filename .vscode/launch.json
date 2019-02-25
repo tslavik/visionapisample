@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FileloadApplication",
+            "request": "launch",
+            "mainClass": "cz.tslavik.fileload.FileloadApplication",
+            "projectName": "fileload"
+        }
+    ]
+}
